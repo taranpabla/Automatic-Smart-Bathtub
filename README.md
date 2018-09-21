@@ -96,51 +96,58 @@ https://www.babylist.com/gp/4moms-infant-tub/2544/4175
 ## Flow Rate sensor(Raspberry Pi)(Not working)
 
 **Code**
-https://learn.adafruit.com/adafruit-keg-bot/raspberry-pi-code
-https://github.com/adafruit/Adafruit-Flow-Meter
-https://github.com/adafruit/Kegomatic
-https://github.com/attm2x/m2x-sample-cleverfaucet
+* https://learn.adafruit.com/adafruit-keg-bot/raspberry-pi-code
+* https://github.com/adafruit/Adafruit-Flow-Meter
+* https://github.com/adafruit/Kegomatic
+* https://github.com/attm2x/m2x-sample-cleverfaucet
 
 **Questions/Tutorials**
-https://raspberrypi.stackexchange.com/questions/62300/flow-meter-raspberry-circuit-and-problem-receiving-pulses
-https://www.raspberrypi.org/forums/viewtopic.php?f=81&t=38208
-_https://www.element14.com/community/community/raspberry-pi/blog/2013/04/16/tutorial-on-how-to-create-a-flowmeter-with-raspberry-pi-and-arduino-to-measure-water-used-in-gardening_ (https://www.element14.com/community/community/raspberry-pi/blog/2013/04/16/tutorial-on-how-to-create-a-flowmeter-with-raspberry-pi-and-arduino-to-measure-water-used-in-gardening)
-_https://raspberrypi.stackexchange.com/questions/34480/how-to-use-the-water-flow-sensor-with-raspberry_ (https://raspberrypi.stackexchange.com/questions/34480/how-to-use-the-water-flow-sensor-with-raspberry)
-_https://www.raspberrypi.org/forums/viewtopic.php?t=37924&p=411225_ (https://www.raspberrypi.org/forums/viewtopic.php?t=37924&p=411225)
+* https://raspberrypi.stackexchange.com/questions/62300/flow-meter-raspberry-circuit-and-problem-receiving-pulses
+* https://www.raspberrypi.org/forums/viewtopic.php?f=81&t=38208
+* https://www.element14.com/community/community/raspberry-pi/blog/2013/04/16/tutorial-on-how-to-create-a-flowmeter-with-raspberry-pi-and-arduino-to-measure-water-used-in-gardening_ 
+* (https://www.element14.com/community/community/raspberry-pi/blog/2013/04/16/tutorial-on-how-to-create-a-flowmeter-with-raspberry-pi-and-arduino-to-measure-water-used-in-gardening)
+* https://raspberrypi.stackexchange.com/questions/34480/how-to-use-the-water-flow-sensor-with-raspberry_ 
+* https://www.raspberrypi.org/forums/viewtopic.php?t=37924&p=411225_ (https://www.raspberrypi.org/forums/viewtopic.php?t=37924&p=411225)
 
 **Videos**
-https://www.youtube.com/watch?v=S8hOsEYz3Ow
-https://www.youtube.com/watch?v=CtgP6Ewtinc
-https://www.youtube.com/watch?v=ZMKwpaPl-Vk
+* https://www.youtube.com/watch?v=S8hOsEYz3Ow
+* https://www.youtube.com/watch?v=CtgP6Ewtinc
+* https://www.youtube.com/watch?v=ZMKwpaPl-Vk
 
 ## Flow Rate Sensor(Arduino**)(Working)
 
-_Wiring_
-Black = ground
-yellow = Pin 2 (Data pin)
-red = 5V
+* **Wiring**
+   * Black = ground
+   * yellow = Pin 2 (Data pin)
+   * red = 5V
 
 v1 code = http://www.bc-robotics.com/tutorials/using-a-flow-sensor-with-arduino/
-*Code that was used: *v2 code = http://www.instructables.com/id/How-to-Use-Water-Flow-Sensor-Arduino-Tutorial/
-https://diyhacking.com/arduino-flow-rate-sensor/
+*Code that was used: *v2 code = 
+* http://www.instructables.com/id/How-to-Use-Water-Flow-Sensor-Arduino-Tutorial/
+* https://diyhacking.com/arduino-flow-rate-sensor/
 
 Code that hasn't been tested yet
-_https://github.com/adafruit/Adafruit-Flow-Meter/blob/master/Adafruit_FlowMeter.pde_ (https://github.com/adafruit/Adafruit-Flow-Meter/blob/master/Adafruit_FlowMeter.pde)
-_https://forum.arduino.cc/index.php?topic=8548.0_ (https://forum.arduino.cc/index.php?topic=8548.0)
-_http://www.electroschematics.com/12145/working-with-water-flow-sensors-arduino/_ (http://www.electroschematics.com/12145/working-with-water-flow-sensors-arduino/)
+* https://github.com/adafruit/Adafruit-Flow-Meter/blob/master/Adafruit_FlowMeter.pde
+* https://github.com/adafruit/Adafruit-Flow-Meter/blob/master/Adafruit_FlowMeter.pde
+* https://forum.arduino.cc/index.php?topic=8548.0
+* https://forum.arduino.cc/index.php?topic=8548.0
+* http://www.electroschematics.com/12145/working-with-water-flow-sensors-arduino/
+* http://www.electroschematics.com/12145/working-with-water-flow-sensors-arduino/
 
 https://www.youtube.com/watch?v=JLwpUv-fXZw
 http://jume-maker.blogspot.com/2017/12/how-to-measure-liquid-volume-flow-rate.html 
 
 ## DS18B20 Temp sensor(Working)
 
-_Wiring_
-Black = ground = ground rail = Ground (Pin 9)
-Yellow = data = GPIO4 (Pin 7)
-Red = Voltage = 3.3V positive rail = 3V3 (Pin 1)
+* Wiring
+   * Black = ground = ground rail = Ground (Pin 9)
+   * Yellow = data = GPIO4 (Pin 7)
+   * Red = Voltage = 3.3V positive rail = 3V3 (Pin 1)
 
 https://pimylifeup.com/raspberry-pi-temperature-sensor/
-*Code that was used: *https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/software (https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/ds18b20)
+*Code that was used: 
+* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/software 
+* https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/ds18b20)
 
 ## Water Pump Control using Relay(Working)
 
