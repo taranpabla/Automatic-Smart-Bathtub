@@ -3,6 +3,8 @@
 https://tinyurl.com/bathtubproject
 
 ## Setup
+![whole_setup](https://user-images.githubusercontent.com/43414368/45893649-f0a82f00-bd99-11e8-94c1-ffca339b9bbd.jpg)
+
 
 
 ## Bill of Materials
