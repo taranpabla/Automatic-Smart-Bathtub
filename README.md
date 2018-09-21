@@ -151,13 +151,13 @@ https://pimylifeup.com/raspberry-pi-temperature-sensor/
 
 ## Water Pump Control using Relay(Working)
 
-_Relay Wiring_
-GND = ground = ground rail = Ground (Pin 9)
-IN1 = Relay 1/ Pump 1 = GPIO5 (Pin 29)
-IN2 = Relay 2/ Pump 2 = GPIO6 (Pin 31)
-IN3 = Relay 3 = GPIO 13 (Pin 33)
-IN4 = Relay 4 = GPIO 19 (Pin 35)
-VCC = 5V postive = 5V DC power (Pin 2)
+* Relay Wiring
+   * GND = ground = ground rail = Ground (Pin 9)
+   * IN1 = Relay 1/ Pump 1 = GPIO5 (Pin 29)
+   * IN2 = Relay 2/ Pump 2 = GPIO6 (Pin 31)
+   * IN3 = Relay 3 = GPIO 13 (Pin 33)
+   * IN4 = Relay 4 = GPIO 19 (Pin 35)
+   * VCC = 5V postive = 5V DC power (Pin 2)
 
 *Code that was used:  *https://github.com/skiwithpete/relaypi/tree/master/4port
 *4 Channel Relay Setup tutorial: *https://www.youtube.com/watch?v=OQyntQLazMU&feature=youtu.be
@@ -167,9 +167,9 @@ VCC = 5V postive = 5V DC power (Pin 2)
 
 *Run the following commands in terminal to install the Arduino IDE*
 
-sudo apt-get update
-sudo apt-get install arduino
-sudo reboot
+* sudo apt-get update
+* sudo apt-get install arduino
+* sudo reboot
 
 Connect the Arduino to Raspberry Pi using usb cable
 Run the Arduino IDE and open the serial monitor to read the flow rate rate in real time
