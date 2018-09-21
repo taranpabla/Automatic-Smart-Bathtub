@@ -1,6 +1,10 @@
 # Automatic Smart Bathtub
 ## Link to Research Paper
 https://tinyurl.com/bathtubproject
+
+## Setup
+
+
 ## Bill of Materials
 
 * **Tub or Bucket**
