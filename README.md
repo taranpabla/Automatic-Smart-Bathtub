@@ -2,7 +2,19 @@
 ## Link to Research Paper
 https://tinyurl.com/bathtubproject
 
+## Setup
 
+### Whole Setup
+![whole_setup](https://user-images.githubusercontent.com/43414368/45893649-f0a82f00-bd99-11e8-94c1-ffca339b9bbd.jpg)
+
+### Raspberry Pi Setup
+![img_4872](https://user-images.githubusercontent.com/43414368/45893753-4da3e500-bd9a-11e8-9ac4-006eb537893a.JPG)
+
+### Tubing
+![tub_and_pumps](https://user-images.githubusercontent.com/43414368/45893780-657b6900-bd9a-11e8-834b-ddca85760944.jpg)
+
+### Wiring
+![wiring](https://user-images.githubusercontent.com/43414368/45893794-775d0c00-bd9a-11e8-8b1b-f9210584ab27.jpg)
 
 ## Bill of Materials
 
