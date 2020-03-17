@@ -174,5 +174,3 @@ https://pimylifeup.com/raspberry-pi-temperature-sensor/
 Connect the Arduino to Raspberry Pi using usb cable
 Run the Arduino IDE and open the serial monitor to read the flow rate rate in real time
 
-Test
-
